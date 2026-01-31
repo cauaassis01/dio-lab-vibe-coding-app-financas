@@ -103,6 +103,14 @@ O assistente deve ter permissão para:
 
 Criar metas financeiras
 
+# RESUMO
+
+O aplicativo de controle financeiro pessoal tem como objetivo ajudar usuários a organizar e gerenciar melhor suas finanças, promovendo maior consciência financeira e planejamento dos gastos. A plataforma permite o cadastro de contas bancárias, o registro de despesas mensais e a visualização consolidada do saldo total e dos gastos por meio de listas e gráficos.
+
+Além disso, o aplicativo possibilita a criação de metas financeiras, tanto por conta bancária quanto de forma geral, auxiliando o usuário a economizar e alcançar objetivos financeiros específicos. Como diferencial, o sistema conta com um assistente virtual que interage com o usuário por linguagem natural, permitindo a realização de ações como adicionar despesas, cadastrar contas e criar metas de forma simples e intuitiva.
+
+Com essas funcionalidades, o aplicativo busca reduzir o endividamento, melhorar o controle dos gastos e incentivar hábitos financeiros mais saudáveis.
+
 Adicionar contas bancárias
 
 Registrar despesas
